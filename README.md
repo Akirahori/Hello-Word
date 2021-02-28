@@ -1,4 +1,4 @@
 # Hello Word
- Primeiro repositório de Git
+My first repository
 
 I'm a student of statistics and I'm learning programming.
